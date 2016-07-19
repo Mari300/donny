@@ -1,0 +1,103 @@
+/*
+ Theme Name:   Donny's Profile Theme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+ */
+ @import url('https://fonts.googleapis.com/css?family=Lato') ;
+
+ body {
+ 	background-color : #2b3e50 ;
+ 	color : white ;
+ }
+ p {
+ 	color : #ebebeb ;
+ }
+ .widget-title {
+ 	color : white ;
+ }
+ .page-title {
+ 	color : white ;
+ }
+ .navbar-default {
+ 	background-color : #df691a
+  ;
+ }
+ .search-submit .btn .btn-default {
+ 	color : #df691a ;
+ }
+ .btn .btn-primary .btn-lg {
+ 	background-color : #df691a ;
+ 	color : white ; 
+ 	border-color : #F88017 ;
+ }
+ .btn-group-lg>.btn, .btn-lg {
+	background-color : #df691a ;
+	border-radius : 12px ;
+ }
+ .widget.simple-social-icons {
+	border-radius : 15px ;
+ }
+ .navbar-collapse {
+ 	background-color : #df691a ;
+ 	color : #000000 ;
+ }
+ a {
+ 	color : white ;
+ }
+ .jumbotron {
+ 	height : 700px ;
+ 	width : 600px; ;
+ 	background-color : gray ;
+ }
+ .wpcf7-form-control.wpcf7-submit {
+ 	color : black ;
+ }
+ span {
+ 	color : white ;
+ }
+ #post-29 {
+ 	background-color : gray ;
+ 	border-radius : 12px ;
+ 	border-width : 5px ;
+ 	border-color : gray ;
+ }
+ #post-7 {
+    background-color : gray ;
+ 	border-radius : 12px ;
+ 	border-width : 5px ;
+ 	border-color : gray ;
+ }
+ input {
+ 	right : 80px ;
+ }
+ .site-info {
+ 	color : white ;
+ }
+ .simple-social-icons ul li a {
+ 	background-color : #df691a ;
+ }
+ 
+ input[type=submit] {
+ 	background-color : #df691a ;
+ 	color : white ;
+ }
+.navbar-default .navbar-nav>li>a {
+	color : white ;
+}
+.navbar-default .navbar-brand {
+	color : white ;
+}
+.btn-primary:hover {
+	background-color : #F88017 ;
+	border-color : #F88017 ;
+}
+ 
+ 
